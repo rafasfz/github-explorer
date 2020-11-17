@@ -1,7 +1,7 @@
 ## 💻 Overview
 **Github Explorer** is a simple explorer of github repositories. Made with TypeScript and React.JS.
 
-It was develop during the Rockeatseat Bootcamp GoStack.
+It was developed during the Rockeatseat Bootcamp GoStack.
 
 You can use the deployed version at [https://github-explorer.rafasfz.vercel.app/](https://github-explorer.rafasfz.vercel.app/).
 
