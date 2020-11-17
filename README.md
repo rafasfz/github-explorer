@@ -4,6 +4,7 @@
 It was develop during the Rockeatseat Bootcamp GoStack.
 
 <img src="https://i.imgur.com/HeiVqg4.png"/>
+<img src="https://i.imgur.com/l7yhGQF.png" />
 
 ## 🚀Quick Start
 
